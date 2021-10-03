@@ -1,6 +1,7 @@
 {
     "name": "NU.nl",
     "short_name": "NU.nl",
+    "start_url": "/turnn-nu/",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
