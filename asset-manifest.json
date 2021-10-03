@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/turnn-nu/static/css/main.d6dfdda2.chunk.css",
+    "main.js": "/turnn-nu/static/js/main.d1664bb5.chunk.js",
+    "main.js.map": "/turnn-nu/static/js/main.d1664bb5.chunk.js.map",
+    "runtime-main.js": "/turnn-nu/static/js/runtime-main.5302b7eb.js",
+    "runtime-main.js.map": "/turnn-nu/static/js/runtime-main.5302b7eb.js.map",
+    "static/js/2.9cfc60e3.chunk.js": "/turnn-nu/static/js/2.9cfc60e3.chunk.js",
+    "static/js/2.9cfc60e3.chunk.js.map": "/turnn-nu/static/js/2.9cfc60e3.chunk.js.map",
+    "index.html": "/turnn-nu/index.html",
+    "service-worker.js": "/turnn-nu/service-worker.js",
+    "service-worker.js.map": "/turnn-nu/service-worker.js.map",
+    "static/css/main.d6dfdda2.chunk.css.map": "/turnn-nu/static/css/main.d6dfdda2.chunk.css.map",
+    "static/js/2.9cfc60e3.chunk.js.LICENSE.txt": "/turnn-nu/static/js/2.9cfc60e3.chunk.js.LICENSE.txt",
+    "static/media/nu_logo.532a2886.svg": "/turnn-nu/static/media/nu_logo.532a2886.svg",
+    "static/media/rutte_fiets.1da601ec.jpeg": "/turnn-nu/static/media/rutte_fiets.1da601ec.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5302b7eb.js",
+    "static/js/2.9cfc60e3.chunk.js",
+    "static/css/main.d6dfdda2.chunk.css",
+    "static/js/main.d1664bb5.chunk.js"
+  ]
+}
